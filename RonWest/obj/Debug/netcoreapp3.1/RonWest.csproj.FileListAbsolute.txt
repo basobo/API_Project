@@ -1,0 +1,15 @@
+C:\Users\bruno\source\repos\RonWest\RonWest\bin\Debug\netcoreapp3.1\RonWest.exe
+C:\Users\bruno\source\repos\RonWest\RonWest\obj\Debug\netcoreapp3.1\RonWest.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\RonWest\RonWest\obj\Debug\netcoreapp3.1\RonWest.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\RonWest\RonWest\obj\Debug\netcoreapp3.1\RonWest.AssemblyInfo.cs
+C:\Users\bruno\source\repos\RonWest\RonWest\bin\Debug\netcoreapp3.1\RonWest.deps.json
+C:\Users\bruno\source\repos\RonWest\RonWest\bin\Debug\netcoreapp3.1\RonWest.runtimeconfig.json
+C:\Users\bruno\source\repos\RonWest\RonWest\bin\Debug\netcoreapp3.1\RonWest.runtimeconfig.dev.json
+C:\Users\bruno\source\repos\RonWest\RonWest\bin\Debug\netcoreapp3.1\RonWest.dll
+C:\Users\bruno\source\repos\RonWest\RonWest\bin\Debug\netcoreapp3.1\RonWest.pdb
+C:\Users\bruno\source\repos\RonWest\RonWest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bruno\source\repos\RonWest\RonWest\obj\Debug\netcoreapp3.1\RonWest.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\RonWest\RonWest\obj\Debug\netcoreapp3.1\RonWest.csproj.CopyComplete
+C:\Users\bruno\source\repos\RonWest\RonWest\obj\Debug\netcoreapp3.1\RonWest.dll
+C:\Users\bruno\source\repos\RonWest\RonWest\obj\Debug\netcoreapp3.1\RonWest.pdb
+C:\Users\bruno\source\repos\RonWest\RonWest\obj\Debug\netcoreapp3.1\RonWest.genruntimeconfig.cache

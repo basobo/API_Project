@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+nlqvZSL1UFnRHbb1eWhEpQLm9CP1PLRIXm73TgZw0YUgbIeP3dVJAccISO4iY3vMDUm6GyJqaHO+IDTHYQQoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno\\source\\repos\\RonWest\\RonWest\\RonWest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
